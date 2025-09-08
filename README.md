@@ -26,12 +26,12 @@ Welcome to my GitHub profile!
 - Netball coach  
 - Recently started baking cakes and cupcakes 🍰🧁
 
-## 🌱 My learning journey
+## 🌱 My Learning Journey
 
 I'm currently completing my Graduate Certificate in Business Analystics with RMIT University, and apply what I'm learning to my current role, particularly creating visualisations in Tableau.
 My next step is to improve my knowledge of Microsoft Excel and learn SQL.
 
-## 🤔 I’m looking for help
+## 🤔 I’m Looking for Help
 I'm new to GitHUb, so any advice, tips or tricks you can share to help me get more comfortable with it would be great. Feedback to help me improve is welcomed.
 
 ---
