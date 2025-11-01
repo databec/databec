@@ -4,7 +4,7 @@ Welcome to my GitHub profile!
 
 ## 👩‍💻 About Me
 
-- **Profession:** HSE Analyst & Student  
+- **Profession:** HSE Analyst
 - **Passionate about:** Using data to make workplaces safer, smarter, and better for everyone.
 - **Current focus:** Working in the health and safety space, building systems that deliver the right data at the right time to prevent incidents and empower better decision-making.
 - **Mission:** I believe in the power of data to drive meaningful change, and I’m always looking for ways to expand my skills in business analytics and make a bigger impact across organisations.
@@ -13,12 +13,16 @@ Welcome to my GitHub profile!
 
 - **Business & Data Analytics**
 - **Tableau** (data visualisation)
+- **RStudio** (predictive and prescriptive analytics)
+- **Microsoft Excel** (data processing, data visualisation, and predictive analytics)
+- **PostgreSQL** (beginner)
 - Always learning and growing my technical toolkit!
 
 ## 🚀 Favorite Projects
 
 - [hello-world](https://github.com/databec/hello-world): My GitHub journey starts here!  
   I’m excited to continue adding more projects as I expand my skills.
+- Python projects coming soon as I expand my IT skills
 
 ## 👩‍👦 Fun Facts
 
@@ -28,8 +32,9 @@ Welcome to my GitHub profile!
 
 ## 🌱 My Learning Journey
 
-I'm currently completing my Graduate Certificate in Business Analystics with RMIT University, and apply what I'm learning to my current role, particularly creating visualisations in Tableau.
-My next step is to improve my knowledge of Microsoft Excel and learn SQL.
+I recently completed my Graduate Certificate in Business Analystics with RMIT University Online.
+I am applying what I've learnt to my current role, particularly creating visualisations in Tableau, and working on a Incident Prediction Model to identify high risk works and prevent incidents occuring.
+My next step is to improve my knowledge of Microsoft Excel and SQL, and learn Python.
 
 ## 🤔 I’m Looking for Help
 I'm new to GitHUb, so any advice, tips or tricks you can share to help me get more comfortable with it would be great. Feedback to help me improve is welcomed.
